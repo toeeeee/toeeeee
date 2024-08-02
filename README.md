@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Python, C++, Java, JS, TS, HTML/CSS
 
 ### 📫 Reachable at ...
-- [LinkedIn](https://www.linkedin.com/in/anguyen2000/) or [Emaiil<anthoqn3@uci.edu>
+- [LinkedIn](https://www.linkedin.com/in/anguyen2000/) or [Emaii]<anthoqn3@uci.edu>
