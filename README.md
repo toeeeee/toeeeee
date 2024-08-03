@@ -1,6 +1,6 @@
 ## 🌊 Hello! I'm Anthony, a current CS undergraduate at the University of California, Irvine! 
 
-The idea and process behind making cool projects really inspires me. I hope some of my projects can inspire and be used by others as well. Take a look! 
+The idea and process behind making cool projects really inspires me. I hope some of my projects can inspire and be used by others as well. Feel free to look at some of them!
 
 ### 📚 Stack ...
 - Python, C++, Java, JavaScript, TypeScript, HTML/CSS
