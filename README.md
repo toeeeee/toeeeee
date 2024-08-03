@@ -1,4 +1,4 @@
-## 🌊 Hello! I'm Anthony, a current CS undergraduate at the University of California, Irvine! 
+## 🌊 Hello! Welcome to my GitHub.
 
 The idea and process behind making cool projects really inspires me. I hope some of my projects can inspire others as well. Feel free to look at some of them!
 
