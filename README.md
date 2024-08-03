@@ -3,7 +3,7 @@
 The idea and process behind making cool projects really inspires me. I hope some of my projects can inspire and be used by others as well. Take a look! 
 
 ### 📚 Stack ...
-- Python, C++, Java, JS, TS, HTML/CSS
+- Python, C++, Java, JavaScript, TypeScript, HTML/CSS
 
 ### 📫 Reachable at ...
 - [LinkedIn](https://www.linkedin.com/in/anguyen2000/) or [Emaii]<anthoqn3@uci.edu>
