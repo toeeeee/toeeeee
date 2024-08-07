@@ -6,7 +6,7 @@ The idea and process behind making cool projects really inspires me. I hope some
 - Python, C++, Java, JavaScript, TypeScript, HTML/CSS
 
 ### 📫 Reachable at ...
-- [LinkedIn](https://www.linkedin.com/in/anguyen2000/) or [Emaii]<anthoqn3@uci.edu>
+- [LinkedIn](https://www.linkedin.com/in/anguyen2000/) or <anthoqn3@uci.edu>
 
 <!--
 **toeeeee/toeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
